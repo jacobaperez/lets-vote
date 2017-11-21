@@ -1,0 +1,24 @@
+{
+  "name": "live-voting",
+  "version": "1.0.0",
+  "description": "web app that allows for live-voting on just about anything",
+  "main": "index.js",
+  "repository": "https://github.com/jacobaperez/live-voting.git",
+  "author": "Jake Perez <jacobanthony.perez@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "babel-cli": "^6.26.0",
+    "babel-core": "^6.26.0",
+    "babel-preset-es2015": "^6.24.1",
+    "chai": "^4.1.2",
+    "express": "^4.16.2",
+    "immutable": "^3.8.2",
+    "mocha": "^4.0.1",
+    "react": "^16.1.1",
+    "react-dom": "^16.1.1",
+    "react-redux": "^5.0.6",
+    "react-router": "^4.2.0",
+    "redux": "^3.7.2",
+    "socket.io": "^2.0.4"
+  }
+}
